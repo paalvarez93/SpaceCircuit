@@ -1,2 +1,2 @@
 # SpaceCircuit
-It's a game based on space survival
+Spacecraft piloting game developed for the Nasa SpaceApps Challenge 2020 by the Sheldon's Army team. 
