@@ -65,29 +65,29 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11232}
+      Script: {instanceID: 11264}
     - Class: 114
-      Script: {instanceID: 11252}
+      Script: {instanceID: 11284}
     - Class: 114
-      Script: {instanceID: 11594}
+      Script: {instanceID: 11626}
     - Class: 114
-      Script: {instanceID: 11868}
+      Script: {instanceID: 11902}
     - Class: 114
-      Script: {instanceID: 11992}
-    - Class: 114
-      Script: {instanceID: 12196}
+      Script: {instanceID: 12026}
     - Class: 114
       Script: {instanceID: 12230}
     - Class: 114
-      Script: {instanceID: 12520}
+      Script: {instanceID: 12264}
     - Class: 114
-      Script: {instanceID: 12596}
+      Script: {instanceID: 12554}
     - Class: 114
-      Script: {instanceID: 12740}
+      Script: {instanceID: 12630}
     - Class: 114
-      Script: {instanceID: 12802}
+      Script: {instanceID: 12776}
     - Class: 114
-      Script: {instanceID: 13178}
+      Script: {instanceID: 12838}
+    - Class: 114
+      Script: {instanceID: 13214}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -132,29 +132,29 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11232}
+      Script: {instanceID: 11264}
     - Class: 114
-      Script: {instanceID: 11252}
+      Script: {instanceID: 11284}
     - Class: 114
-      Script: {instanceID: 11868}
+      Script: {instanceID: 11902}
     - Class: 114
-      Script: {instanceID: 11896}
+      Script: {instanceID: 11930}
     - Class: 114
-      Script: {instanceID: 12294}
+      Script: {instanceID: 12328}
     - Class: 114
-      Script: {instanceID: 12520}
+      Script: {instanceID: 12554}
     - Class: 114
-      Script: {instanceID: 12534}
+      Script: {instanceID: 12568}
     - Class: 114
-      Script: {instanceID: 12740}
+      Script: {instanceID: 12744}
     - Class: 114
-      Script: {instanceID: 12802}
+      Script: {instanceID: 12776}
     - Class: 114
-      Script: {instanceID: 12954}
+      Script: {instanceID: 12838}
     - Class: 114
-      Script: {instanceID: 13178}
+      Script: {instanceID: 12990}
     - Class: 114
-      Script: {instanceID: 16390}
+      Script: {instanceID: 13214}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -195,25 +195,25 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11232}
+      Script: {instanceID: 11264}
     - Class: 114
-      Script: {instanceID: 11252}
+      Script: {instanceID: 11284}
     - Class: 114
-      Script: {instanceID: 11422}
+      Script: {instanceID: 11454}
     - Class: 114
-      Script: {instanceID: 11868}
+      Script: {instanceID: 11846}
     - Class: 114
-      Script: {instanceID: 12294}
+      Script: {instanceID: 11902}
     - Class: 114
-      Script: {instanceID: 12520}
+      Script: {instanceID: 12328}
     - Class: 114
-      Script: {instanceID: 12740}
+      Script: {instanceID: 12554}
     - Class: 114
-      Script: {instanceID: 12802}
+      Script: {instanceID: 12776}
     - Class: 114
-      Script: {instanceID: 13178}
+      Script: {instanceID: 12838}
     - Class: 114
-      Script: {instanceID: 22290}
+      Script: {instanceID: 13214}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -419,6 +419,12 @@ ScriptsOnlyBuild:
     className: Shadow
   - hash:
       serializedVersion: 2
+      Hash: f16e37d7ebd0503305ced5d599f5621c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CharacterSelection
+  - hash:
+      serializedVersion: 2
       Hash: cc4274b586df3c02688bac01b88bd16c
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -587,6 +593,12 @@ ScriptsOnlyBuild:
     className: iOSNotificationsWrapper
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainMenu
+  - hash:
+      serializedVersion: 2
       Hash: 6939772cb3ce775a8e8d99f332534491
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -735,21 +747,9 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MainMenu
-  - hash:
-      serializedVersion: 2
-      Hash: f16e37d7ebd0503305ced5d599f5621c
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CharacterSelection
   platform: 13
   scenePathNames:
   - Assets/Scenes/MainMenu.unity
   - Assets/Scenes/RocketSelect.unity
   - Assets/Scenes/Levels.unity
-  playerPath: C:/Users/migue/Desktop/SpaceCircuit.apk
+  playerPath: C:/Users/migue/Desktop/SpaceCircuit_ASTC_LZ4HC.apk
